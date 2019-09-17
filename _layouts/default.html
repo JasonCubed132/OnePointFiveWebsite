@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+	<head>
+        <meta charset="utf-8">
+		<title>{{ page.title }}</title>
+		<link rel="stylesheet" href="/assets/css/styles.css">
+	</head>
+	<body>
+		<h2 align="center"><u>{{ page.title }}</u></h2>
+		<div id="container">
+            {% include navigation.html %}
+			<div id="content">
+				{{ content }}
+			</div>
+		</div>
+	</body>
+</html>

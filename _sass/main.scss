@@ -1,0 +1,21 @@
+.current {
+    color: green;
+}
+
+#container {
+	width: 100%;
+	overflow:hidden;
+}
+
+#navigation {
+	border-style: solid;
+	background-color:lightblue;
+	width: 50%; 
+	float: left;
+}
+#content {
+	border-style: solid;
+	background-color:lightgreen;
+	margin-left: 52%;
+	padding: 10px;
+}

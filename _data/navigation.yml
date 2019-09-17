@@ -1,0 +1,36 @@
+- name: Home 
+  link: /
+- name: Computer related legislation
+  link: /legislation.html
+- name: The Data Protection Act 1998
+  link: /dpa.html
+- name: The Computer Misuse Act 1990
+  link: /cma.html
+- name: The Copyright Designs and Patents Act 1998
+  link: /cdpa.html
+- name: The Regulation of Investigatory Powers Act 2000
+  link: /ripa.html
+- name: Ethical, moral and cultural issues
+  link: /ethics.html
+- name: Economics of the Internet
+  link: /economics.html
+- name: Computers in the workforce
+  link: /workforce.html
+- name: User generated content
+  link: /user.html
+- name: Algorithms and ethics
+  link: /algorithms.html
+- name: Driverless cars
+  link: /cars.html
+- name: Artificial intelligence
+  link: /ai.html
+- name: Environmental effects
+  link: /environment.html
+- name: Privacy and censorship
+  link: /privacy.html
+- name: Censorship and the internet
+  link: /censorship.html
+- name: Monitoring behaviour
+  link: /behaviour.html
+- name: Layout, colour paradigms and character sets
+  link: /layout.html
